@@ -42,7 +42,10 @@ This app addresses this critical need by providing a simple, intuitive interface
 -   rigger Panic Alarm: An alarm sound will play to alert nearby people to your distress.
 
 
-## Run the app on the iPhone 16 simulator or a physical device using iOS 18.2.
+## Run the app on the iPhone Simulator.
+
+I have made my project run on Simlulator of iPhone 16 on iOS 18.2, you can do the same.
+
 <img width="405" alt="Screenshot 2025-01-09 at 11 27 48 PM" src="https://github.com/user-attachments/assets/6fe0197d-ca0d-4df9-8f37-5288fcbb3b29" />
 One can add the people he/she wants in their emergency contact list.
 
