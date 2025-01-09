@@ -62,7 +62,3 @@ By just clicking on the "Send SOS Alert" button, SOS Alert will be sent to peopl
 -  User Authentication: Add user authentication for more secure access to the app.
 -  Multiple Alert Options: Allow for multiple alert templates to be sent (e.g., family, friend, or professional contacts).
 -  Automated Alerting: Enable automatic sending of alerts when the app detects an emergency based on predefined conditions.
-
-
-## License
-This project is open-source and available under the MIT License.
