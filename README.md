@@ -44,9 +44,10 @@ This app addresses this critical need by providing a simple, intuitive interface
 
 ## Run the app on the iPhone 16 simulator or a physical device using iOS 18.2.
 <img width="405" alt="Screenshot 2025-01-09 at 11 27 48 PM" src="https://github.com/user-attachments/assets/6fe0197d-ca0d-4df9-8f37-5288fcbb3b29" />
+One can add the people he/she wants in their emergency contact list.
 
 <img width="405" alt="Screenshot 2025-01-09 at 11 28 17 PM" src="https://github.com/user-attachments/assets/9dcf7714-121e-4928-bb1d-3837d79c12ad" />
-
+By just clicking on the "Send SOS Alert" button, SOS Alert will be sent to people in the emergency contact list.
 
 ## Future Enhancements
 
