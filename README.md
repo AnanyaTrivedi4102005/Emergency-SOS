@@ -10,6 +10,7 @@ This project is built with SwiftUI and is designed to run on iPhone 16 with iOS 
 
 ## Features
 
+
 -  SOS Alert: Trigger an SOS alert to all added emergency contacts.
 -  Location Sharing: Sends the current GPS location to emergency contacts for quick response.
 -  Panic Alarm: Plays an alarm sound to alert nearby people and deter potential threats.
