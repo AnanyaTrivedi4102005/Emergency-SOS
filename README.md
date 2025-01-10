@@ -4,6 +4,7 @@
 
 The Emergency SOS App is a safety tool designed for users to quickly send an SOS alert, including their current location, to emergency contacts in times of need. This app allows users to add emergency contacts, start an audio recording for evidence, and trigger a panic alarm. The app utilizes the iOS location services to fetch the user’s current location and send that information along with the alert.
 
+
 This project is built with SwiftUI and is designed to run on iPhone 16 with iOS 18.2. The app is aimed at providing an extra layer of safety for users who may be in dangerous or vulnerable situations. By sending emergency alerts, recordings, and location data, the app ensures that help can reach the user as quickly as possible.
 
 
